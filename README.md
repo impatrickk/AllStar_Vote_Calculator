@@ -4,16 +4,16 @@ Every year, NBA players feel snubbed out of being an All-Star when they don't ge
 
 ## Tools
 Languages and Libraries
--Python
--NumPy
--Pandas
--Scikit‐learn
+- Python
+- NumPy
+- Pandas
+- Scikit‐learn
 
 Scraping Tools
--Beautiful Soup
--RegEx
--Python Pickle
+- Beautiful Soup
+- RegEx
+- Python Pickle
 
 Framework and Visualization Tools
--Matplotlib
--Seaborn
+- Matplotlib
+- Seaborn
