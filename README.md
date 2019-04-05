@@ -17,3 +17,6 @@ Scraping Tools
 Framework and Visualization Tools
 - Matplotlib
 - Seaborn
+
+## Blog
+For this project, I took a look at 
