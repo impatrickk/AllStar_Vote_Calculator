@@ -19,4 +19,3 @@ Framework and Visualization Tools
 - Seaborn
 
 ## Blog
-For this project, I took a look at 
